@@ -1,0 +1,50 @@
+.image{
+  border-radius:80px;
+  display: block;
+  margin:0 auto;
+  display: block;
+  border: 5px solid black;
+  max-width: 100%;
+  height:250px;
+}
+.heading3{
+  font-family: Times New Roman;
+  font-weight: bold;
+}
+.heading3:hover{
+  color:blue;
+  opacity: 0.5;
+}
+.body{
+  font-family: Garamond,serif;
+  background-color: antiquewhite;
+  font-size: 15px;
+  
+}
+.link{
+  background-color: pink;
+  text-decoration: none;
+  color: green;
+  font-family: Sans-Serif;
+  font-weight: bold;
+  font-size: 15px;
+}
+link:hover{
+  color:black;
+}
+.qoute{
+  font-weight: bold;
+  color: midnightblue;
+  font-style: italic;
+}
+.footer {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f5f5dc; /* soft beige tone */
+  text-align: center;
+  font-family: 'Garamond', serif;
+  font-size: 16px;
+  color: darkslategray;
+  border-top: 2px solid saddlebrown;
+  opacity: 0.9;
+}
